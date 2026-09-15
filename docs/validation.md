@@ -19,6 +19,14 @@ Package version: **1.0.0**. Checked **September 15, 2026** with **Claude Code 2.
 
 - OAuth sign-in and consent in the target Claude host.
 - Authenticated task/goal reads and writes, progress publication, and revocation checks in [acceptance.md](acceptance.md).
-- Directory submission and review by Anthropic.
 
 These checks validate packaging, installation, and unauthenticated endpoint behavior. They do not establish that authenticated workflows or host-specific behavior have passed.
+
+## Distribution and review status
+
+- Public GitHub marketplace and version 1.0.0 release are available.
+- Submitted for **Claude Code** through Claude Console on **September 15, 2026**, under Fornaq LLC. The console confirmed: “Plugin submitted for review.”
+- Anthropic review is pending; submission does not mean approval or directory listing.
+- Cowork was not selected because it has not been tested.
+- The linked privacy policy was updated to describe category-based consent and Connected apps revocation, deployed successfully, and verified live before submission.
+- [Submission dashboard](https://platform.claude.com/plugins/submissions) (publisher sign-in required).
