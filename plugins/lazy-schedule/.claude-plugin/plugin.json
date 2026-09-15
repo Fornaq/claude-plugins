@@ -1,0 +1,14 @@
+{
+  "name": "lazy-schedule",
+  "version": "1.0.0",
+  "description": "Plan tasks, track goals, and share progress through your authorized Lazy Schedule account.",
+  "author": {
+    "name": "Fornaq LLC",
+    "email": "support@fornaq.com",
+    "url": "https://www.lazyschedule.com"
+  },
+  "homepage": "https://www.lazyschedule.com",
+  "repository": "https://github.com/Fornaq/claude-plugins",
+  "license": "MIT",
+  "keywords": ["productivity", "tasks", "goals", "planning", "mcp"]
+}

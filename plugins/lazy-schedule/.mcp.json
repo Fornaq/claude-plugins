@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lazy-schedule": {
+      "type": "http",
+      "url": "https://lazyschedule.com/mcp"
+    }
+  }
+}

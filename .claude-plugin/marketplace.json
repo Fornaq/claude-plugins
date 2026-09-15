@@ -1,0 +1,19 @@
+{
+  "name": "fornaq",
+  "owner": {
+    "name": "Fornaq LLC",
+    "email": "support@fornaq.com"
+  },
+  "metadata": {
+    "description": "Claude plugins from Fornaq, the makers of Lazy Schedule."
+  },
+  "plugins": [
+    {
+      "name": "lazy-schedule",
+      "source": "./plugins/lazy-schedule",
+      "description": "Plan tasks, track goals, and share progress through your authorized Lazy Schedule account.",
+      "category": "productivity",
+      "tags": ["tasks", "goals", "planning", "mcp"]
+    }
+  ]
+}
