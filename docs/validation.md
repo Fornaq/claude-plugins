@@ -26,7 +26,7 @@ These checks validate packaging, installation, and unauthenticated endpoint beha
 
 - Public GitHub marketplace and version 1.0.0 release are available.
 - Submitted for **Claude Code** through Claude Console on **September 15, 2026**, under Fornaq LLC. The console confirmed: “Plugin submitted for review.”
-- Anthropic review is pending; submission does not mean approval or directory listing.
+- Claude Console showed **“Passed review”** on **September 15, 2026**. Public directory visibility has not yet been independently verified.
 - Cowork was not selected because it has not been tested.
 - The linked privacy policy was updated to describe category-based consent and Connected apps revocation, deployed successfully, and verified live before submission.
 - [Submission dashboard](https://platform.claude.com/plugins/submissions) (publisher sign-in required).

@@ -2,7 +2,7 @@
 
 ## Current status
 
-Submitted for Claude Code on September 15, 2026. Claude Console confirmed receipt; Anthropic review is pending. See [validation.md](validation.md) for completed checks and remaining authenticated-account tests.
+Submitted for Claude Code on September 15, 2026. Claude Console showed **“Passed review”** on September 15, 2026. Public directory visibility has not yet been independently verified. See [validation.md](validation.md) for completed checks and remaining authenticated-account tests.
 
 ## Listing information
 
